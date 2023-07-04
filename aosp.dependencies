@@ -1,0 +1,44 @@
+[
+  {
+    "repository": "HorizonDroid-Org-Devices/device_google_gs201",
+    "target_path": "device/google/gs201",
+    "branch": "aosp-14",
+    "remote": "github"
+  },
+  {
+    "repository": "HorizonDroid-Org-Devices/device_google_gs101",
+    "target_path": "device/google/gs101",
+    "branch": "aosp-14",
+    "remote": "github"
+  },
+  {
+    "repository": "HorizonDroid-Org-Devices/device_google_gs-common",
+    "target_path": "device/google/gs-common",
+    "branch": "aosp-14",
+    "remote": "github"
+  },
+  {
+    "repository": "HorizonDroid-Org-Devices/kernel_google_gs201",
+    "target_path": "kernel/google/gs201/private/gs-google",
+    "branch": "poponix-ksu",
+    "remote": "github"
+  },
+  {
+    "repository": "HorizonDroid-Org-Devices/proprietary_vendor_google_cheetah",
+    "target_path": "vendor/google/cheetah",
+    "branch": "aosp-14",
+    "remote": "github"
+  },
+  {
+    "repository": "HorizonDroid-Org-Devices/packages_apps_PixelParts",
+    "target_path": "packages/apps/PixelParts",
+    "branch": "udc",
+    "remote": "github"
+  },
+  {
+    "repository": "HorizonDroid-Org-Devices/vendor_bcr",
+    "target_path": "vendor/bcr",
+    "branch": "udc",
+    "remote": "github"
+  }
+]
